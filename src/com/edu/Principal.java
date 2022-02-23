@@ -3,8 +3,12 @@ package com.edu;
 public class Principal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
+	}
+	
+	public void Saludar() {
+		System.out.println("Hola buenas tardes");
 	}
 
 }
